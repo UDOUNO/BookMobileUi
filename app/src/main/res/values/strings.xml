@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_for_yourself">ОТКРОЙ ДЛЯ СЕБЯ</string>
+    <string name="books_world">КНИЖНЫЙ МИР</string>
+    <string name="pass">Пароль</string>
+    <string name="mail">Электронная почта</string>
+    <string name="enter">Войти</string>
+    <string name="library">БИБЛИОТЕКА</string>
+    <string name="news">НОВИНКИ</string>
+    <string name="popular_books">ПОПУЛЯРНЫЕ КНИГИ</string>
+    <string name="books_search">Поиск по книгам</string>
+    <string name="latest_searches">НЕДАВНИЕ ЗАПРОСЫ</string>
+    <string name="genres">ЖАНРЫ</string>
+    <string name="authors">АВТОРЫ</string>
+    <string name="favorite_books">ИЗБРАННЫЕ КНИГИ</string>
+    <string name="quotes">ЦИТАТЫ</string>
+    <string name="read_now">ЧИТАЕТЕ СЕЙЧАС</string>
+    <string name="bookmarks">ЗАКЛАДКИ</string>
+    <string name="read">Читать</string>
+    <string name="to_fav">В избранное</string>
+    <string name="readed">ПРОЧИТАНО</string>
+    <string name="title">ОГЛАВЛЕНИЕ</string>
+</resources>
